@@ -52,9 +52,6 @@ This repository contains 50 frontend projects that were developed to help develo
 <a href="https://online-quiz-48.netlify.app/">48.Online Quiz Website</a><br>
 <a href="https://dino-game-49.netlify.app/">49.Dragon Game<br>
 <a href="https://drag-drop-image.netlify.app/">50.Drag&Drop Image</a><br>
-# Installation
-To use these projects, simply clone or download the repository to your local machine:
-<p>git clone https://github.com/SudeepAcharjee/The-50-Front-end-Project.git</p>
   
 # Usage
 Each project is contained within its own folder. To view the project, simply open the index.html file in your web browser. The CSS and JavaScript files are also included within the project folder.
